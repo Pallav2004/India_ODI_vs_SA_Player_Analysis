@@ -22,9 +22,10 @@ The analysis focuses on batting and bowling performance metrics using data sourc
 ---
 
 ## 🛠 Tools & Technologies
-- Power BI
-- DAX
-- ESPN Stats (Web Data Source)
+
+- Power BI (Data Modeling,Interactive Dashboards)
+- Power Query (Data Cleaning & Transformation)
+- ESPN Stats / ESPNcricinfo (Online Web Data Source)
 
 
 ---
@@ -42,7 +43,15 @@ The analysis focuses on batting and bowling performance metrics using data sourc
 <img width="1152" height="649" alt="image" src="https://github.com/user-attachments/assets/24028a61-2efb-4af2-bc97-b54d8e771dae" />
 
 
----
+## Key Learnings
+- Hands-on experience with real-world sports data analysis
+- Improved skills in KPI design 
+- Practical understanding of Power BI data modeling
+
+
+
+-
+
 
 
 
