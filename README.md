@@ -48,16 +48,7 @@ The analysis focuses on batting and bowling performance metrics using data sourc
 - Improved skills in KPI design 
 - Practical understanding of Power BI data modeling
 
-
-
--
-
-
-
-
-
----
-
+  
 ## 👤 Author
 **Pallav Garg**  
 Aspiring Data Analyst
